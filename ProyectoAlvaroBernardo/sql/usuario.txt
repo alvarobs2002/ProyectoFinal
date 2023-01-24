@@ -1,0 +1,3 @@
+GRANT USAGE ON *.* TO `administrador`@`localhost`;
+
+GRANT SELECT, INSERT, UPDATE, DELETE ON `tiendaropa`.* TO `administrador`@`localhost`;
